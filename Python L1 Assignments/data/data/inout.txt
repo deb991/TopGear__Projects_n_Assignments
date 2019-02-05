@@ -1,0 +1,11 @@
+This is a dump file. No matter how big this file is. But all the string, charecter, Word, text, sentence, Phareses & all other content
+will be read out by the base read script. This is a base program component. in future AI will use the same logic to read out all other scripts.
+In the master logic, there are several stages to read out scripts.
+Find valuable content.
+Fint connections with other Scripts.
+Making links with scripts & make it more flexiable for reader.
+Best possible way to relate with any of the possible way to relate with any other scripts.
+Reduce unexpected connections & elements which can create some complexity.
+This reader way will help out people for determine any exceptios or other related issues with any type of scripts.
+
+##This is a test script for building this Reader engine.##

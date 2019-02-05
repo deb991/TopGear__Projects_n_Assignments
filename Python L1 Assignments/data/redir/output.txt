@@ -1,0 +1,26 @@
+Charecter numbers as per Line numbers. ::  134
+Charecter numbers as per Line numbers. ::  143
+Charecter numbers as per Line numbers. ::  66
+Charecter numbers as per Line numbers. ::  22
+Charecter numbers as per Line numbers. ::  36
+Charecter numbers as per Line numbers. ::  62
+Charecter numbers as per Line numbers. ::  90
+Charecter numbers as per Line numbers. ::  74
+Charecter numbers as per Line numbers. ::  114
+Charecter numbers as per Line numbers. ::  0
+Charecter numbers as per Line numbers. ::  58
+Words per Line ::  Counter({'\\': 12, '_': 8, 't': 7, 'n': 6, 'o': 4, 's': 4, 'y': 3, 'P': 3, 'c': 3, 'a': 3, 'e': 3, 'i': 3, 'h': 2, 'r': 2, 'm': 2, 'l': 2, '1': 2, 'D': 1, ':': 1, 'M': 1, 'E': 1, 'v': 1, 'j': 1, 'T': 1, 'G': 1, 'b': 1, 'L': 1, 'A': 1, 'g': 1, 'd': 1, 'u': 1, '.': 1, 'x': 1})
+Charecters count within::  Counter({'\\': 12, '_': 8, 't': 7, 'n': 6, 'o': 4, 's': 4, 'y': 3, 'P': 3, 'c': 3, 'a': 3, 'e': 3, 'i': 3, 'h': 2, 'r': 2, 'm': 2, 'l': 2, '1': 2, 'D': 1, ':': 1, 'M': 1, 'E': 1, 'v': 1, 'j': 1, 'T': 1, 'G': 1, 'b': 1, 'L': 1, 'A': 1, 'g': 1, 'd': 1, 'u': 1, '.': 1, 'x': 1})
+Charecter numbers as per Line numbers. ::  134
+Charecter numbers as per Line numbers. ::  143
+Charecter numbers as per Line numbers. ::  66
+Charecter numbers as per Line numbers. ::  22
+Charecter numbers as per Line numbers. ::  36
+Charecter numbers as per Line numbers. ::  62
+Charecter numbers as per Line numbers. ::  90
+Charecter numbers as per Line numbers. ::  74
+Charecter numbers as per Line numbers. ::  114
+Charecter numbers as per Line numbers. ::  0
+Charecter numbers as per Line numbers. ::  58
+Words per Line ::  Counter({'\\': 12, '_': 8, 't': 7, 'n': 6, 'o': 4, 's': 4, 'y': 3, 'P': 3, 'c': 3, 'a': 3, 'e': 3, 'i': 3, 'h': 2, 'r': 2, 'm': 2, 'l': 2, '1': 2, 'D': 1, ':': 1, 'M': 1, 'E': 1, 'v': 1, 'j': 1, 'T': 1, 'G': 1, 'b': 1, 'L': 1, 'A': 1, 'g': 1, 'd': 1, 'u': 1, '.': 1, 'x': 1})
+Charecters count within::  Counter({'\\': 12, '_': 8, 't': 7, 'n': 6, 'o': 4, 's': 4, 'y': 3, 'P': 3, 'c': 3, 'a': 3, 'e': 3, 'i': 3, 'h': 2, 'r': 2, 'm': 2, 'l': 2, '1': 2, 'D': 1, ':': 1, 'M': 1, 'E': 1, 'v': 1, 'j': 1, 'T': 1, 'G': 1, 'b': 1, 'L': 1, 'A': 1, 'g': 1, 'd': 1, 'u': 1, '.': 1, 'x': 1})
