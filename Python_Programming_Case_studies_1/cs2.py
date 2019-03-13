@@ -1,7 +1,7 @@
 #!/usr/bin/env python -i
 import os
 import glob
-import fnmatch
+import re
 
 path = input('Enter the path to check source Code :: ')
 
@@ -13,7 +13,24 @@ if os.path.isdir(path):
     print('\nListed files under search directory :: \t{} \nFile count :: \t{}'.format(srcFile, srcFile_count))
     #print('\nListed files under search directory :: \n\t', fnmatch.filter(os.listdir(path), "*.py*"))
 
+    for root, dir, files in os.walk(path):
+        for name in srcFile:
+            print('++++++++++++\tBegining Sequesce\t++++++++++++++++\n')
+            print(name)
+            with open (name, 'r') as f:
+                data = f.read()
+                #print(data)
+                lines = data.splitlines()
+                print('line_count =\t',  len(lines))
+
+                pat = re.compile(r"class+[^:]*")
+                for line in lines:
+                    print('Class found from entier Py scripts ::-- \t{}\n'.format((re.search(pat, data).group())))
+                    print('++++++++++++\tEnd Of sequence\t++++++++++++++++\n')
+                    break
 
 
+else:
+    print('\nPlease try again with same directory :: ')
 
 print('EOP')
