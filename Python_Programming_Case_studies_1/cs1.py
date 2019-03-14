@@ -9,9 +9,6 @@ import getopt
 def cat():
 
     if os.path.isfile(file__IO):
-        print('\nFile exists & initial checking has been completed, So proceeding for the next analizing~~~ :: Flag :: 1')
-        print('\nBegining initial operation for the content of that file~~~ :: Flag :: 2')
-
         with open(file__IO, 'r') as f:
             data = f.read()
             line = data.splitlines()
